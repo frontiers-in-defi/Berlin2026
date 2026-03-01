@@ -35,6 +35,12 @@ heroButtons:
  - {link: "https://pretix.eu/defi/defi-2026/", text: "Registration"}
  - {permalink: "/schedule/", text: "Program"}
 
+ # Rockstar Speakers Block (this is the "Organizers" section with round photos)
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 7
+rockstarSpeakersTitle: "Organizers"
+rockstarSpeakersButtonText: "All Speakers"
+
 # About Block (3 tiles)
 aboutTitle: "Key Topics"
 aboutBlock:

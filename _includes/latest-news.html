@@ -1,7 +1,6 @@
 ### {{ site.latestNewsTitle }}
 
-{% for post in site.posts limit:1 %}
-{% assign postUrl = site.baseurl | append: post.url %}
+{% for post in site.posts limit:1 %} {% assign postUrl = site.baseurl | append: post.url %}
 
 ###### {{ post.title }}
 

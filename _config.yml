@@ -33,7 +33,7 @@ eventDate: "28 May 2026 — Berlin"
 typeoutTextValues: '"Frontiers in DeFi", "Decentralized Finance", "DAO", "Blockchain analytics"'
 typeoutFallback: "Frontiers in DeFi"
 heroButtons:
- - {link: "https://pretix.eu/defi/defi-2026/", text: "Registration"}
+ - {link: "https://frontiers-in-defi.github.io/Berlin2026/registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Program"}
 #LAtest news
 latestNewsTitle: "About the Workshop"

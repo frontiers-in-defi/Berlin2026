@@ -54,7 +54,7 @@
   thumbnailUrl: "trimborn.jpeg"
   rockstar: true
   role: "organizer"
-#------ Speakers sessions
+
 - id: 107
   name: "Marcus"
   surname: "Wunsch"
@@ -63,6 +63,8 @@
   thumbnailUrl: "csm_wuns_1771a5bba5.webp"
   rockstar: true
   role: "organizer"
+
+  #------ Speakers sessions
 - id: 201
   name: "Claudio"
   surname: "Tessone"
@@ -140,6 +142,15 @@
   name: "Alexander"
   surname: "Kropiunig"
   company: "Science Hub Vienna"
+  title: ""
+  bio: ""
+  thumbnailUrl: "placeholder.png"
+  role: "speaker"
+  
+  - id: 210
+  name: "Michele"
+  surname: "Fabi"
+  company: "Télécom Paris"
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"

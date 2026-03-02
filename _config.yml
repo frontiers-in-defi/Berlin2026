@@ -47,9 +47,9 @@ rockstarSpeakersButtonText: "All Speakers"
 # About Block (3 tiles)
 aboutTitle: "Key Topics"
 aboutBlock:
- - {title: "Risk & Performance", image: "conference.jpg", text: "Risks, efficiency, and performance metrics in DeFi systems; systemic risk, stability, and network effects."}
- - {title: "Governance & Regulation", image: "workshop.jpg", text: "Regulatory frameworks and policy design; governance models and decision-making in DAOs."}
- - {title: "Markets & Infrastructure", image: "hackathon.jpg", text: "Market dynamics & pricing; digital currencies & financial infrastructure; transparency & accountability."}
+ - {title: "Risk & Performance", image: "risk_icon.png", text: "Risks, efficiency, and performance metrics in DeFi systems; systemic risk, stability, and network effects."}
+ - {title: "Governance & Regulation", image: "regulation_icon.png", text: "Regulatory frameworks and policy design; governance models and decision-making in DAOs."}
+ - {title: "Markets & Infrastructure", image: "markets_icon.png", text: "Market dynamics & pricing; digital currencies & financial infrastructure; transparency & accountability."}
 
 # Location Block
 locationBlockTitle: "Location"

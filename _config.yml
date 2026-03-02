@@ -64,6 +64,20 @@ mapMobileCenterCoordinates: "52.51842, 13.38064"
 venueBlockTitle: "Venue"
 venueBigImage: "ECDF.jpg"
 venueSmallImage1: "ECDF_hall.jpg"
-venueSmallImage2: "ECDF_lolgo.png"
+venueSmallImage3: "ECDF_lolgo.png"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Large event hall"
+
+ticketsTitle: "Registration"
+ticketsInfo: "If you have any issues with registration, contact us at frontiers-defi@htw-berlin.de."
+
+ticketsOffers:
+  - name: "Workshop Registration"
+    price: "See Pretix"
+    priceCurrency: ""
+    ticketContentList:
+      - "Opens 9 March 2026"
+      - "Register via Pretix (external link)"
+      - "Confirmation by email"
+    buyButtonLink: "https://pretix.eu/defi/defi-2026/"
+    buyButtonText: "Register on Pretix"

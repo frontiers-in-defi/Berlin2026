@@ -70,6 +70,7 @@
   title: ""
   bio: ""
   thumbnailUrl: "Claudio_Tessone.png"
+  role: "speaker"
 
 - id: 202
   name: "Aviv"
@@ -78,6 +79,7 @@
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"
+  role: "speaker"
   social:
     - {name: "site", link: "https://aviv.yai.sh/"}
 
@@ -88,6 +90,7 @@
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"
+  role: "speaker"
 
 - id: 204
   name: "Lorenzo"
@@ -104,6 +107,7 @@
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"
+  role: "speaker"
 
 - id: 206
   name: "Robert"
@@ -112,6 +116,7 @@
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"
+  role: "speaker"
 
 - id: 207
   name: "Walter"
@@ -120,6 +125,7 @@
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"
+  role: "speaker"
 
 - id: 208
   name: "Co-Pierre"
@@ -128,6 +134,7 @@
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"
+  role: "speaker"
 
 - id: 209
   name: "Alexander"
@@ -136,3 +143,4 @@
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"
+  role: "speaker"

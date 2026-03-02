@@ -1,7 +1,7 @@
 
 
 # ---- Organizers (show on HOME page) ----
-- id: 101
+- id: 1
   name: "Alla"
   surname: "Petukhina"
   company: "HTW Berlin"
@@ -10,7 +10,7 @@
   rockstar: true
   role: "organizer"
 
-- id: 102
+- id: 2
   name: "Christina"
   surname: "Erlwein-Sayer"
   company: "HTW Berlin"
@@ -19,7 +19,7 @@
   rockstar: true
   role: "organizer"
 
-- id: 103
+- id: 3
   name: "Bernhard"
   surname: "Haslhofer"
   company: "Complexity Science Hub Vienna"
@@ -28,7 +28,7 @@
   rockstar: true
   role: "organizer"
 
-- id: 104
+- id: 4
   name: "Barbara"
   surname: "Będowska-Sójka"
   company: "Poznań University of Economics and Business"
@@ -37,7 +37,7 @@
   rockstar: true
   role: "organizer"
 
-- id: 105
+- id: 5
   name: "Pietro"
   surname: "Saggese"
   company: "IMT Lucca"
@@ -46,7 +46,7 @@
   rockstar: true
   role: "organizer"
 
-- id: 106
+- id: 6
   name: "Simon"
   surname: "Trimborn"
   company: "University of Amsterdam"
@@ -55,7 +55,7 @@
   rockstar: true
   role: "organizer"
 
-- id: 107
+- id: 7
   name: "Marcus"
   surname: "Wunsch"
   company: "ZHAW"
@@ -65,7 +65,7 @@
   role: "organizer"
 
   #------ Speakers sessions
-- id: 201
+- id: 8
   name: "Claudio"
   surname: "Tessone"
   company: "University of Zurich"
@@ -74,7 +74,7 @@
   thumbnailUrl: "Claudio_Tessone.png"
   role: "speaker"
 
-- id: 202
+- id: 9
   name: "Aviv"
   surname: "Yaish"
   company: "Yale University"
@@ -85,7 +85,7 @@
   social:
     - {name: "site", link: "https://aviv.yai.sh/"}
 
-- id: 203
+- id: 10
   name: "Massimo"
   surname: "Bartoletti"
   company: "University of Cagliari"
@@ -94,7 +94,7 @@
   thumbnailUrl: "placeholder.png"
   role: "speaker"
 
-- id: 204
+- id: 11
   name: "Lorenzo"
   surname: "Schönleber"
   company: "Collegio Carlo Alberto / University of Turin"
@@ -102,7 +102,7 @@
   bio: ""
   thumbnailUrl: "placeholder.png"
 
-- id: 205
+- id: 12
   name: "Olivier"
   surname: "Guéant"
   company: "Université Paris Cité"
@@ -111,7 +111,7 @@
   thumbnailUrl: "placeholder.png"
   role: "speaker"
 
-- id: 206
+- id: 13
   name: "Robert"
   surname: "Ślepaczuk"
   company: "University of Warsaw"
@@ -120,7 +120,7 @@
   thumbnailUrl: "placeholder.png"
   role: "speaker"
 
-- id: 207
+- id: 14
   name: "Walter"
   surname: "Hernandez"
   company: "University College London"
@@ -129,7 +129,7 @@
   thumbnailUrl: "placeholder.png"
   role: "speaker"
 
-- id: 208
+- id: 15
   name: "Co-Pierre"
   surname: "Georg"
   company: "Frankfurt School of Finance & Management"
@@ -138,7 +138,7 @@
   thumbnailUrl: "placeholder.png"
   role: "speaker"
 
-- id: 209
+- id: 16
   name: "Alexander"
   surname: "Kropiunig"
   company: "Science Hub Vienna"
@@ -147,7 +147,7 @@
   thumbnailUrl: "placeholder.png"
   role: "speaker"
   
-  - id: 301
+  - id: 17
   name: "Michele"
   surname: "Fabi"
   company: "Télécom Paris"

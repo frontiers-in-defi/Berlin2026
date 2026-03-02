@@ -147,7 +147,7 @@
   thumbnailUrl: "placeholder.png"
   role: "speaker"
   
-  - id: 17
+- id: 17
   name: "Michele"
   surname: "Fabi"
   company: "Télécom Paris"

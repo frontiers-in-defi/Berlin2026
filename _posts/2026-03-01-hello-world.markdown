@@ -20,3 +20,4 @@ This event is supported by the [DFG (German Research Foundation)](https://www.df
 - Systemic risk, financial stability, and network effects in DeFi
 - Design and adoption of digital currencies and financial infrastructure
 - Decentralization, transparency, and accountability in blockchain ecosystems
+

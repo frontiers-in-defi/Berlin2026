@@ -19,4 +19,4 @@ This event brings together researchers from finance, economics, computer science
 - Design and adoption of digital currencies and financial infrastructure
 - Decentralization, transparency, and accountability in blockchain ecosystems
 
-This event is   supported by DFG (German Research Foundation), [https://www.dfg.de](www.dfg.de))
+This event is   supported by DFG (German Research Foundation), [https://www.dfg.de](www.dfg.de)

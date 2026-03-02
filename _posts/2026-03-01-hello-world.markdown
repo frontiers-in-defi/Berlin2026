@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About the workshop"
-date: 2026-03-02 08:00:00
+date: 2026-03-01 08:00:00
 isStaticPost: false
 ---
 
@@ -18,3 +18,5 @@ This event brings together researchers from finance, economics, computer science
 - Systemic risk, financial stability, and network effects in DeFi
 - Design and adoption of digital currencies and financial infrastructure
 - Decentralization, transparency, and accountability in blockchain ecosystems
+
+This event is   supported by DFG (German Research Foundation), [https://www.dfg.de](www.dfg.de))

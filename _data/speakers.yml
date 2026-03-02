@@ -1,78 +1,73 @@
-- id: 101
-  name: "Alla"
-  surname: "Petukhina"
-  company: "HTW Berlin"
-  title: "Organizer"
+- id: 201
+  name: "Claudio"
+  surname: "Tessone"
+  company: "University of Zurich"
+  title: ""
   bio: ""
-  thumbnailUrl: "AllaP2025.jpg"
-  rockstar: true
-  social:
-    - {name: "site", link: "https://www.htw-berlin.de/hochschule/personen/person/?eid=13252"}
+  thumbnailUrl: "placeholder.png"
 
-- id: 102
-  name: "Christina"
-  surname: "Erlwein-Sayer"
-  company: "HTW Berlin"
-  title: "Organizer"
+- id: 202
+  name: "Aviv"
+  surname: "Yaish"
+  company: "Yale University"
+  title: ""
   bio: ""
-  thumbnailUrl: "ChristinaES.png"
-  rockstar: true
+  thumbnailUrl: "placeholder.png"
   social:
-    - {name: "site", link: "https://www.htw-berlin.de/hochschule/personen/person/?eid=12150"}
+    - {name: "site", link: "https://aviv.yai.sh/"}
 
-- id: 103
-  name: "Barbara"
-  surname: "Będowska-Sójka"
-  company: "Poznań University of Economics and Business"
-  title: "Organizer"
+- id: 203
+  name: "Massimo"
+  surname: "Bartoletti"
+  company: "University of Cagliari"
+  title: ""
   bio: ""
-  thumbnailUrl: "Barbara.jpg"
-  rockstar: true
-  social:
-    - {name: "site", link: "https://ue.poznan.pl/en/people/prof-dr-hab-barbara-bedowska-sojka/"}
+  thumbnailUrl: "placeholder.png"
 
-
-- id: 104
-  name: "Bernhard"
-  surname: "Haslhofer"
-  company: "Complexity Science Hub Vienna"
-  title: "Organizer"
+- id: 204
+  name: "Lorenzo"
+  surname: "Schönleber"
+  company: "Collegio Carlo Alberto / University of Turin"
+  title: ""
   bio: ""
-  thumbnailUrl: "bhaslhofer_2022.jpg"
-  rockstar: true
-  social:
-    - {name: "site", link: "https://www.csh.ac.at/researcher/bernhard-haslhofer/"}
+  thumbnailUrl: "placeholder.png"
 
-
-- id: 105
-  name: "Pietro"
-  surname: "Saggese"
-  company: "IMT Lucca"
-  title: "Organizer"
+- id: 205
+  name: "Olivier"
+  surname: "Guéant"
+  company: "Université Paris Cité"
+  title: ""
   bio: ""
-  thumbnailUrl: "PietroS.jpeg"
-  rockstar: true
-  social:
-    - {name: "site", link: "https://www.csh.ac.at/researcher/pietro-saggese/"}
+  thumbnailUrl: "placeholder.png"
 
-- id: 106
-  name: "Simon"
-  surname: "Trimborn"
-  company: "University of Amsterdam"
-  title: "Organizer"
+- id: 206
+  name: "Robert"
+  surname: "Ślepaczuk"
+  company: "University of Warsaw"
+  title: ""
   bio: ""
-  thumbnailUrl: "trimborn.jpeg"
-  rockstar: true
-  social:
-    - {name: "site", link: "https://www.uva.nl/en/profile/t/r/s.trimborn/s.trimborn.html"}
+  thumbnailUrl: "placeholder.png"
 
-- id: 107
-  name: "Marcus"
-  surname: "Wunsch"
-  company: "ZHAW"
-  title: "Organizer"
+- id: 207
+  name: "Walter"
+  surname: "Hernandez"
+  company: "University College London"
+  title: ""
   bio: ""
-  thumbnailUrl: "csm_wuns_1771a5bba5.webp"
-  rockstar: true
-  social:
-    - {name: "site", link: "https://www.zhaw.ch/de/ueber-uns/person/wuns/"}
+  thumbnailUrl: "placeholder.png"
+
+- id: 208
+  name: "Co-Pierre"
+  surname: "Georg"
+  company: "Frankfurt School of Finance & Management"
+  title: ""
+  bio: ""
+  thumbnailUrl: "placeholder.png"
+
+- id: 209
+  name: "Alexander"
+  surname: "Kropiunig"
+  company: "Science Hub Vienna"
+  title: ""
+  bio: ""
+  thumbnailUrl: "placeholder.png"

@@ -3,6 +3,7 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1 appear-animation-trigger">
             {% for speaker in site.data.speakers %}
+            {% unless speaker.role == "organizer" %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 appear-animation">
                 <div class="zoe-effect ribbon-activator" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
                     <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})">
@@ -14,6 +15,7 @@
                                 <p class="ribbon abbr">{{ ribbon["abbr"] }}</p>
                                 <p class="ribbon full-title">{{ ribbon["title"] }}</p>
                             </li>
+                            {% endunless %}
                             {% endfor %}
                         </ul>
                         {% endif %}

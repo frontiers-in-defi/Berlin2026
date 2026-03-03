@@ -155,3 +155,12 @@
   bio: ""
   thumbnailUrl: "placeholder.png"
   role: "speaker"
+  
+- id: 18
+  name: "Daniel"
+  surname: "Liebau"
+  company: "ESSEC Business School"
+  title: ""
+  bio: ""
+  thumbnailUrl: "placeholder.png"
+  role: "speaker"

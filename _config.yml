@@ -78,7 +78,7 @@ ticketsOffers:
     price: "See Pretix"
     priceCurrency: ""
     ticketContentList:
-      - "Opens 9 March 2026"
+      - "Opens mid-March 2026"
       - "Register via Pretix (external link)"
       - "Confirmation by email"
     buyButtonLink: "https://pretix.eu/defi/defi-2026/"

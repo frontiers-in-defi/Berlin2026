@@ -159,8 +159,17 @@
 - id: 18
   name: "Daniel"
   surname: "Liebau"
-  company: "ESSEC Business School"
+  company: "ESSEC Business School, Singapore"
   title: ""
   bio: ""
   thumbnailUrl: "placeholder.png"
   role: "speaker"
+
+- id: 19
+  name: "Janos"
+  surname: "Tapolcai"
+  company: "Budapest University of Technology and Economics"
+  title: ""
+  bio: ""
+  thumbnailUrl: "placeholder.png"
+  role: "speaker"  

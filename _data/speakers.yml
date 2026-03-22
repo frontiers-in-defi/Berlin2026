@@ -71,7 +71,7 @@
   company: "University of Zurich"
   title: ""
   bio: ""
-  thumbnailUrl: "Claudio_Tessone.png"
+  thumbnailUrl: "claudio.png"
   role: "speaker"
 
 - id: 9
@@ -80,7 +80,7 @@
   company: "Yale University"
   title: ""
   bio: ""
-  thumbnailUrl: "placeholder.png"
+  thumbnailUrl: "Aviv-Yanish.jpg"
   role: "speaker"
   social:
     - {name: "site", link: "https://aviv.yai.sh/"}
@@ -108,7 +108,7 @@
   company: "Université Paris Cité"
   title: ""
   bio: ""
-  thumbnailUrl: "placeholder.png"
+  thumbnailUrl: "oliver.jpg"
   role: "speaker"
 
 - id: 13
@@ -117,7 +117,7 @@
   company: "University of Warsaw"
   title: ""
   bio: ""
-  thumbnailUrl: "placeholder.png"
+  thumbnailUrl: "ŚLEPACZUK.jpg"
   role: "speaker"
 
 - id: 14
@@ -171,5 +171,5 @@
   company: "Budapest University of Technology and Economics"
   title: ""
   bio: ""
-  thumbnailUrl: "placeholder.png"
+  thumbnailUrl: "tapolcai_janos.jpg"
   role: "speaker"  

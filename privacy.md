@@ -28,7 +28,7 @@ permalink: /privacy/
 
     <p>
       Contact:<br>
-      <a href="mailto:frontiers-defi@htw-berlin.de">frontiers-defi@htw-berlin.de>
+      <a href="mailto:frontiers-defi@htw-berlin.de">frontiers-defi@htw-berlin.de</a>.
     </p>
 
     <h2 style="font-size: 28px; margin-top: 40px; margin-bottom: 15px;">Data We Collect</h2>

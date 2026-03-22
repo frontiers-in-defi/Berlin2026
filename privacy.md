@@ -10,8 +10,7 @@ permalink: /privacy/
     <h1 style="font-size: 42px; margin-bottom: 30px;">Privacy Policy</h1>
 
     <p>
-      This website is operated for the <strong>Frontiers in DeFi Conference 2026</strong> hosted at
-      Hochschule für Technik und Wirtschaft Berlin (HTW Berlin).
+      This website is operated for the <strong>Frontiers in DeFi Conference 2026</strong> hosted at the Einstein Center for Digital future.
     </p>
 
     <p>
@@ -100,7 +99,7 @@ permalink: /privacy/
 
     <p>
       To exercise these rights, please contact us at
-      <a href="mailto:conference@htw-berlin.de">conference@htw-berlin.de</a>.
+      <a href="mailto:frontiers-defi@htw-berlin.de">frontiers-defi@htw-berlin.de</a>.
     </p>
 
     <h2 style="font-size: 28px; margin-top: 40px; margin-bottom: 15px;">External Links</h2>

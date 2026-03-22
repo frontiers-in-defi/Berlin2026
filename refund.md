@@ -61,7 +61,7 @@ permalink: /refund/
     <h2 style="font-size: 28px; margin-top: 40px; margin-bottom: 15px;">Contact</h2>
     <p>
       For any refund-related questions, please contact:
-      <a href="mailto:conference@htw-berlin.de">conference@htw-berlin.de</a>
+      <a href="frontiers-defi@htw-berlin.de">frontiers-defi@htw-berlin.de</a>
     </p>
 
   </div>

@@ -26,7 +26,7 @@ permalink: /impressum/
 
     <p>
       <strong>Contact:</strong><br>
-      <a href="mailto:conference@htw-berlin.de">conference@htw-berlin.de</a>
+      <a href="mailto:frontiers-defi@htw-berlin.de">frontiers-defi@htw-berlin.de</a>
     </p>
 
     <h2 style="font-size: 28px; margin-top: 40px; margin-bottom: 15px;">

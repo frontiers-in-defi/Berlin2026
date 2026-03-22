@@ -116,8 +116,12 @@
   surname: "Ślepaczuk"
   company: "University of Warsaw"
   title: ""
-  bio: ""
-  thumbnailUrl: "ŚLEPACZUK.jpg"
+  bio: "Associate Professor at the Faculty of Economic Sciences, University of Warsaw (UW), Head of the Department of Quantitative Finance and Machine Learning (DoQFaML), and Head of the Quantitative Finance Research Group (QFRG) https://www.wne.uw.edu.pl/en/faculty/structure/departments/quantitative-finance
+Robert Ślepaczuk received his PhD from the University of Warsaw in 2005 and obtained his habilitation in economics and finance from the Poznań University of Economics in 2020. He founded the Quantitative Finance Research Group (QFRG) in 2011. Since 2023, he has served as Associate Professor at the University of Warsaw and Head of the Department of Quantitative Finance and Machine Learning. linkedin profile
+His research focuses on algorithmic trading, quantitative investment strategies, financial econometrics, derivatives pricing, volatility modelling, and machine learning applications in finance. In particular, his work addresses algorithmic trading systems across multiple asset classes, volatility indicators based on high-frequency option data (such as the VIX), and the modelling and forecasting of financial markets. 
+He has more than 20 years of experience in algorithmic trading and quantitative investment strategies, combining academic research with practical industry experience. Previously, he served as Investment Director of the quantitative fund management division at Union Investment TFI, where he specialized in the design and implementation of automated investment strategies for futures and options across various asset classes, including volatility products and cryptocurrencies. Currently, his practical work focuses on auditing algorithmic investment strategies used by hedge funds. googlescholar Scopus
+Robert Ślepaczuk holds an Investment Adviser license (no. 316) and a Securities Broker license (no. 2245). He is the author of numerous scientific publications and has led or participated in many research projects funded by national and international institutions. He has supervised more than 100 bachelor’s and master’s theses and currently supervises eight PhD students. Teams from the University of Warsaw under his supervision have repeatedly achieved top results in the Rotman European and International Trading Competitions (RETC and RITC)."
+  thumbnailUrl: "zdjecie_RS.png"
   role: "speaker"
 
 - id: 14

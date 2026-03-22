@@ -103,8 +103,9 @@
   company: "Collegio Carlo Alberto / University of Turin"
   title: "speaker"
   bio: ""
-  thumbnailUrl: "placeholder.png"
-  https://sites.google.com/view/lorenzo-schoenleber/menu
+  thumbnailUrl: "LSPic.png"
+  ocial:
+    - {name: "site", link: "https://sites.google.com/view/lorenzo-schoenleber/menu"}
 
 - id: 12
   name: "Olivier"

@@ -82,7 +82,7 @@
   surname: "Yaish"
   company: "Yale University"
   title: ""
-  bio: ""
+  bio: "Aviv Yaish is a Postdoctoral Associate at Yale University, where he makes and breaks distributed systems by bridging economic theory and practical systems security. His approach is driven by a philosophy of constructive deconstruction: pushing systems to their limits is key to making them robust. His contributions have been recognized by several communities: security (CCS Distinguished Paper), economics (Annual CBER Best Paper), and industry (bounties from the Ethereum Foundation and Flashbots). He is currently a member of the Initiative for Cryptocurrencies & Contracts (IC3), and is a junior external faculty at Vienna's Complexity Science Hub. He earned his Ph.D. in Computer Science from the Hebrew University, where he served as the sole lecturer for two courses and received a teaching excellence award. During his studies, he was also a research consultant at Matter Labs. His honors include the AIANI and Jabotinsky fellowships, and inclusion in CBER's Rising Stars and the Hebrew University's 40 Under 40 lists."
   thumbnailUrl: "Aviv-Yanish.jpg"
   role: "speaker"
   social:
@@ -102,9 +102,9 @@
   surname: "Schönleber"
   company: "Collegio Carlo Alberto / University of Turin"
   title: "speaker"
-  bio: ""
+  bio: "Lorenzo Schönleber is an Assistant Professor at the Collegio Carlo Alberto and the University of Turin. His areas of interest include asset pricing, particularly option-implied information, and decentralized finance (DeFi). A central part of his current work aims to integrate insights from derivatives into DeFi."
   thumbnailUrl: "LSPic.jpg"
-  ocial:
+  social:
     - {name: "site", link: "https://sites.google.com/view/lorenzo-schoenleber/menu"}
 
 - id: 12

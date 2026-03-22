@@ -70,9 +70,12 @@
   surname: "Tessone"
   company: "University of Zurich"
   title: ""
-  bio: ""
+  bio: "Claudio J. Tessone is Professor of Blockchain and Distributed Ledger Technologies at the University of Zurich and co-founder and Chairman of the UZH Blockchain Center — the largest academic blockchain initiative in Switzerland and ranked 1st in Europe by CoinDesk's University Blockchain Rankings. He leads the BDLT research group, whose work spans cryptoeconomics, blockchain analytics and forensics, consensus mechanisms, and the design and analysis of blockchain-based systems. His research adopts an interdisciplinary approach to modelling complex socio-economic and sociotechnical systems, combining large-scale empirical analysis with formal methods. He also directs several educational programmes, including the UZH CAS in Blockchain and the International Summer School: Deep Dive into Blockchain"
   thumbnailUrl: "Claudio_Tessone.png"
   role: "speaker"
+  social:
+    - {name: "site", link: "https://scholar.google.ch/citations?user=RAGOVXgAAAAJ&hl=en"}
+  
 
 - id: 9
   name: "Aviv"
@@ -107,7 +110,7 @@
   surname: "Guéant"
   company: "Université Paris Cité"
   title: ""
-  bio: ""
+  bio: "Olivier Guéant is Full Professor of Applied Mathematics at Université Paris Cité and a member of the LPSM (Laboratoire de Probabilités, Statistiques et Modélisation). He is co-director of the M2MO programme, formerly known as DEA Laure Elie. After a PhD on mean field games under the supervision of Pierre-Louis Lions, he worked in mathematical finance and published papers on a wide range of topics including market microstructure, market making, option pricing, portfolio optimization, and decentralized finance."
   thumbnailUrl: "oliver.jpg"
   role: "speaker"
 
@@ -123,6 +126,8 @@ He has more than 20 years of experience in algorithmic trading and quantitative 
 Robert Ślepaczuk holds an Investment Adviser license (no. 316) and a Securities Broker license (no. 2245). He is the author of numerous scientific publications and has led or participated in many research projects funded by national and international institutions. He has supervised more than 100 bachelor’s and master’s theses and currently supervises eight PhD students. Teams from the University of Warsaw under his supervision have repeatedly achieved top results in the Rotman European and International Trading Competitions (RETC and RITC)."
   thumbnailUrl: "zdjecie_RS.png"
   role: "speaker"
+  social:
+    - {name: "site", link: "www.ogueant.com"}
 
 - id: 14
   name: "Walter"
@@ -138,9 +143,12 @@ Robert Ślepaczuk holds an Investment Adviser license (no. 316) and a Securities
   surname: "Georg"
   company: "Frankfurt School of Finance & Management"
   title: ""
-  bio: ""
+  bio: "Co-Pierre Georg is Professor of Practice in Digital Finance and Technology and Director of the Frankfurt School Blockchain Center at Frankfurt School of Finance & Management. His research spans financial stability, blockchain protocol design, tokenomics, CBDCs, and crypto markets, with publications in leading journals including the Journal of Financial Economics, Journal of Economic Theory, Operations Research, Research Policy, and Nature Physics. Previously, he held the DSI/NRF Dual Research Chair in Blockchain Technologies and SARB Chair in Financial Stability Studies at the University of Cape Town, where he founded the Financial Innovation Hub and a FinTech Master's program; earlier roles include economist at the Deutsche Bundesbank Research Centre and Associate Professor at EDHEC Business School. Funded by initiatives like Ripple's UBRI and the Algorand Foundation, his work bridges academia and industry on crypto economics, privacy in distributed systems, and digital property rights. He held visiting positions at MIT, Oxford, Columbia, and Princeton."
   thumbnailUrl: "placeholder.png"
   role: "speaker"
+  social:
+    - {name: "site", link: "https://cogeorg.github.io"}
+
 
 - id: 16
   name: "Alexander"

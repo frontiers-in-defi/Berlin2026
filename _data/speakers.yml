@@ -151,15 +151,14 @@ Robert Ślepaczuk holds an Investment Adviser license (no. 316) and a Securities
   social:
     - {name: "site", link: "https://cogeorg.github.io"}
 
-
 - id: 16
-  name: "Alexander"
-  surname: "Kropiunig"
-  company: "Science Hub Vienna"
-  title: ""
-  bio: ""
-  thumbnailUrl: "Alexander.jpg"
-  role: "speaker"
+  name: "Barbara"
+  surname: "Będowska-Sójka"
+  company: "Poznań University of Economics and Business"
+  title: "Organizer"
+  thumbnailUrl: "Barbara.jpg"
+  rockstar: true
+  role: "organizer"
   
 - id: 17
   name: "Michele"

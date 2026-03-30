@@ -3,12 +3,16 @@
   tracks:
     - {title: "Program", color: "#03a9f4"}
   timeslots:
-    - { startTime: "08:30", endTime: "09:10", sessionIds: [801] }
+    - { startTime: "08:30", endTime: "09:00", sessionIds: [801] }
     - { startTime: "09:00", endTime: "09:10", sessionIds: [802] }
-    - { startTime: "09:10", endTime: "10:40", sessionIds: [803] }
-    - { startTime: "10:40", endTime: "11:00", sessionIds: [804] }
+
+    - { startTime: "09:10", endTime: "10:30", sessionIds: [803] }
+    - { startTime: "10:30", endTime: "11:00", sessionIds: [804] }
+
     - { startTime: "11:00", endTime: "12:30", sessionIds: [805] }
     - { startTime: "12:30", endTime: "13:30", sessionIds: [806] }
+
     - { startTime: "13:30", endTime: "15:00", sessionIds: [807] }
     - { startTime: "15:00", endTime: "15:30", sessionIds: [804] }
+
     - { startTime: "15:30", endTime: "17:00", sessionIds: [808] }

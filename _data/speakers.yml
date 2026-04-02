@@ -99,7 +99,7 @@
   talkTitle: "LLMs as verification oracles for Solidity"
   abstract: "Ensuring the correctness of smart contracts is critical, as even subtle flaws can lead to severe financial losses. While bug detection tools able to spot common vulnerability patterns can serve as a first line of defense, most real-world exploits and losses stem from errors in the contract business logic. Formal verification tools address this challenge, but their impact remains limited by steep learning curves and restricted specification languages. Recent works have begun to explore the use of large language models (LLMs) for security-related tasks such as vulnerability detection and test generation. Yet, a fundamental question remains open: can LLMs aid in assessing the validity of arbitrary contract-specific properties? In this talk, we present the first systematic empirical evaluation of GPT-5, a state-of-the-art reasoning LLM, in this role. We benchmark its performance on a large dataset of verification tasks, compare its outputs against those of established formal verification tools, and assess its practical effectiveness in real-world auditing scenarios. Our study combines quantitative metrics with qualitative analysis, and shows that recent reasoning-oriented LLMs - although lacking soundness guarantees - can be surprisingly effective at predicting the (in)validity of complex properties, suggesting a new frontier in the convergence of AI and formal methods for secure smart contract development and auditing."
   title: ""
-  bio: ""
+  bio: "Massimo Bartoletti is Associate Professor at the Department of Mathematics and Computer Science of the University of Cagliari. His research activity concerns the development of tools and techniques for the specification, analysis and verification of software, with a special emphasis on security and formal methods. Massimo Bartoletti is founder of the laboratory Blockchain@Unica, one of the first academic research group on blockchain technologies in Italy, director of the node of the Cyber Security National Lab for the University of Cagliari, and core member of the CINI working group on Blockchain. The laboratory is currently investigating several aspects of blockchain technologies, among which custom Domain-Specific Languages for smart contracts. He is principal investigator of R&D projects on blockchain technologies, and program committee member of top-tier conferences on blockchain technologies, including ACM CCS - blockchain track and Financial Cryptography. He is the organizer of the DLT Workshop series, of the Scientific School on Blockchain & DLT series, and of the Workshop on Distributed Ledger Technologies and Formal Methods series. Massimo Bartoletti has published over 50 scientific papers on blockchain technologies since 2016, and it has presented his research in top-tier conferences like ACM CCS, Financial Cryptography, Computer Security Foundations, IEEE Security and Privacy Europe, and ESEC/SIGSOFT FSE."
   thumbnailUrl: "pic-bart.png"
   role: "speaker"
 
@@ -193,7 +193,7 @@ Robert Ślepaczuk holds an Investment Adviser license (no. 316) and a Securities
   name: "Daniel"
   surname: "Liebau"
   company: "ESSEC Business School, Singapore"
-  talkTitle: ""
+  talkTitle: "A DeFi Update, Expectations, Governance & Markets"
   abstract: ""
   title: ""
   bio: ""

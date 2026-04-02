@@ -65,14 +65,7 @@ image: FrontiersDeFi2026.jpg
       </ul>
     </div>
 
-    <div>
-      <h3>Questions?</h3>
-      <p style="line-height: 1.7;">
-        If you have any questions regarding registration or ticket categories,
-        please contact us at
-        <a href="mailto:conference@htw-berlin.de">conference@htw-berlin.de</a>.
-      </p>
-    </div>
+    
 
   </div>
 </section>

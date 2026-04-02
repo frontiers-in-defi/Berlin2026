@@ -1,7 +1,7 @@
 <!-- Begin Speakers Modals -->
-<div class="modals" class="modals">
+<div class="modals">
 	{% for speaker in site.data.speakers %}
-		{% if page.modal == "all" or (page.modal == 'team' and (speaker.team != null or speaker.subTeam != null)) %}
+		{% if page.modal == "all" or (page.modal == "team" and (speaker.team != null or speaker.subTeam != null)) %}
 		<div class="modal fade text-left people-modal" id="speakerDetail-{{ speaker.id }}" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-{{ speaker.id }}" aria-hidden="true">
 			<div class="modal-dialog">
 				<div class="modal-content">
@@ -13,79 +13,55 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 
-						{% assign matched_session = nil %}
-						{% if site.showSessions %}
-							{% for session in site.data.sessions %}
-								{% for session_speaker in session.speakers %}
-									{% if session_speaker == speaker.id %}
-										{% assign matched_session = session %}
-									{% endif %}
-								{% endfor %}
-							{% endfor %}
-						{% endif %}
-
-						{% if matched_session %}
-							<h3 style="font-weight: 700; font-size: 1.3em; margin-bottom: 12px;">
-								{{ matched_session.title }}
-							</h3>
-
-							{% if matched_session.language != null %}
-								<span class="theme-metadata"><span class="caption">Language: </span>{{ matched_session.language }}</span>
-							{% endif %}
-							{% if matched_session.complexity != null %}
-								<span class="theme-metadata"><span class="caption">Complexity: </span>{{ matched_session.complexity }}</span>
-							{% endif %}
-
-							{% if matched_session.video %}
-								<div class="theme-video embed-responsive embed-responsive-16by9">
-									<iframe class="embed-responsive-item" src="{{ matched_session.video }}"></iframe>
-								</div>
-							{% endif %}
-
-							{% if matched_session.description %}
-								<div style="margin-top: 18px; margin-bottom: 18px;">
-									<p style="font-weight: 600; margin-bottom: 6px;">Abstract</p>
-									<p class="theme-description" style="margin-bottom: 0;">{{ matched_session.description }}</p>
-								</div>
-							{% endif %}
-
-							{% if matched_session.presentation %}
-								<a class="theme-presentation" href="{{ matched_session.presentation }}" title="Presentation" target="_blank">View presentation</a>
-							{% endif %}
-							<hr>
-						{% endif %}
-
 						<div class="people-details">
 							<div class="row">
 								<div class="col-md-2 col-sm-2">
 									<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
 								</div>
+
 								<div class="col-md-10 col-sm-10 details">
-									<p class="name">{{ speaker.name }} {{ speaker.surname }}
+									{% if speaker.talkTitle %}
+										<h3 style="font-weight: 700; font-size: 1.25em; margin-top: 0; margin-bottom: 14px;">
+											{{ speaker.talkTitle }}
+										</h3>
+									{% endif %}
+
+									<p class="name">
+										{{ speaker.name }} {{ speaker.surname }}
 										<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
 									</p>
 
 									{% if speaker.ribbon != null %}
 									<div class="modal-ribbon-wrapper">
 			                            {% for ribbon in speaker.ribbon %}
-			                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+			                               <a class="modal-ribbon" href="{{ ribbon.url }}" target="_blank">{{ ribbon.title }}</a>
 			                            {% endfor %}
 			                        </div>
 			                        {% endif %}
 
-									<p class="about">{{ speaker.bio }}</p>
+									{% if speaker.abstract %}
+										<p style="font-weight: 600; margin-top: 18px; margin-bottom: 6px;">Abstract</p>
+										<p class="theme-description" style="margin-bottom: 0;">{{ speaker.abstract }}</p>
+									{% endif %}
 
+									{% if speaker.bio %}
+										<p style="font-weight: 600; margin-top: 18px; margin-bottom: 6px;">Biography</p>
+										<p class="about">{{ speaker.bio }}</p>
+									{% endif %}
+
+									{% if speaker.social %}
 									<ul class="social">
 										{% for social in speaker.social %}
 											<li>
-												<a href="{{ social["link"] }}" target="_blank">
-													<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
-														<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+												<a href="{{ social.link }}" target="_blank">
+													<svg class="icon icon-{{ social.name }}" viewBox="0 0 30 32">
+														<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.name }}"></use>
 													</svg>
 												</a>
 											</li>
 										{% endfor %}
 									</ul>
+									{% endif %}
 								</div>
 							</div>
 						</div>

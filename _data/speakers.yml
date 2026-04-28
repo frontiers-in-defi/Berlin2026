@@ -194,7 +194,8 @@ Robert Ślepaczuk holds an Investment Adviser license (no. 316) and a Securities
   surname: "Liebau"
   company: "ESSEC Business School, Singapore"
   talkTitle: "A DeFi Update, Expectations, Governance & Markets"
-  abstract: ""
+  abstract: "This keynote presents empirical evidence on two open questions in decentralized finance market design. The first part examines cross-side network effects on automated market makers that operate without an intermediary actively coordinating participation. Drawing on granular data from a zero-take-rate protocol, I provide evidence  that liquidity provision and trading activity exhibit mutual reinforcement consistent with two-sided market theory, yet arise in the absence of the platform operator role that existing models treat as essential. I situate these findings within the market microstructure and platform economics literatures and discuss what they imply for how we think about coordination in digital asset markets.
+The second part turns to governance delegation on decentralized finance platforms. Using on-chain data from Uniswap, I investigate the delegation of voting power and to whom. The evidence reveals patterns of concentration and affiliate influence that diverge from the predictions of traditional corporate governance theory. I discuss the mechanisms through which delegation operates at the protocol level and what these patterns suggest about the distribution of control in ostensibly decentralized organizations. For both topics, I draw out implications for researchers working on market design and corporate governance as well as practitioners building or regulating digital financial infrastructure"
   title: ""
   bio: ""
   thumbnailUrl: "libau.png"

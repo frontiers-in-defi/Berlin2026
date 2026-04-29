@@ -7,13 +7,13 @@
   group: "With support of"
   elements: 
     - {name: "Institute for Digital Assets", description: "Institute for Digital Assets", link: "https://www.theida.net/#ecosystem", imageUrl: "InstituteForDigitalAssets.png", width: "120px"}
-    - {name: "Quantinar", description: "Quantinar", link: "https://quantinar.com", imageUrl: "quanatinar.png", width: "120px"}
+    - {name: "Quantinar", description: "Quantinar", link: "https://quantinar.com", imageUrl: "qunatinar.png", width: "120px"}
     #- {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
     - {name: "Institute for Digital Assets", description: "Institute for Digital Assets", link: "https://www.theida.net/#ecosystem", imageUrl: "InstituteForDigitalAssets.png"}
-    - {name: "Quantinar", description: "Quantinar", link: "https://quantinar.com", imageUrl: "quanatinar.png"}
+    - {name: "Quantinar", description: "Quantinar", link: "https://quantinar.com", imageUrl: "qunatinar.png"}
    # - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
    # - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}

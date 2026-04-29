@@ -30,14 +30,4 @@
       link: "https://www.zhaw.ch/"
       imageUrl: "ZHAW.png"
 
-- group: "Partners"
-  elements:
-    - name: "Institute for Digital Assets"
-      description: "Institute for Digital Assets"
-      link: "https://www.theida.net/#ecosystem"
-      imageUrl: "InstituteForDigitalAssets.png"
-    
-    - name: "Quantinar"
-      description: "Quantinar"
-      link: "https://quantinar.com"
-      imageUrl: "quantinar.png"
+

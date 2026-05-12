@@ -120,7 +120,21 @@
   surname: "Guéant"
   company: "Université Paris Cité"
   talkTitle: "Perpetual Futures and Funding Rates: A Stackelberg Perspective"
-  abstract: ""
+  abstract: "This paper studies the design of funding mechanisms in perpetual
+futures markets through a Stackelberg game between a trading platform
+and a representative arbitrageur. The platform chooses a
+funding-payment process to keep the perpetual futures price aligned
+with the spot price while avoiding excessive transfers that may
+destabilize the market or discourage participation. In response, the
+trader optimally builds positions in the spot and perpetual markets,
+accounting for trading costs, permanent price impact, and inventory
+risk. We characterize the trader's optimal response through a
+linear-quadratic stochastic control problem and derive the platform's
+optimal policy as the solution of a coupled forward-backward
+stochastic differential equation. The resulting framework provides a
+numerically tractable model for studying how transfer mechanisms shape
+arbitrage incentives and market stability in perpetual futures markets
+"
   title: ""
   bio: "Olivier Guéant is Full Professor of Applied Mathematics at Université Paris Cité and a member of the LPSM (Laboratoire de Probabilités, Statistiques et Modélisation). He is co-director of the M2MO programme, formerly known as DEA Laure Elie. After a PhD on mean field games under the supervision of Pierre-Louis Lions, he worked in mathematical finance and published papers on a wide range of topics including market microstructure, market making, option pricing, portfolio optimization, and decentralized finance."
   thumbnailUrl: "oliver.jpg"

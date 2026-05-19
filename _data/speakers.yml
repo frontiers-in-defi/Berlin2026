@@ -206,7 +206,7 @@ Robert Ślepaczuk holds an Investment Adviser license (no. 316) and a Securities
 - id: 18
   name: "Simon"
   surname: "Trimborn"
-  company: "Amsterdam School of Economics"
+  company: "Amsterdam School of Economics, University of Amsterdam"
   talkTitle: "The Geographic Origigns of Blockchain Transactions"
   abstract: "We investigate the transaction patterns of Bitcoin users by their geographical origin and design Random Forest architectures to obtain indices for the share of transactions per region. We show that North American and European users transaction flows have a stronger market relationship than global flows. Using the indices, trained on a unique dataset spanning 5 years of blockchain transactions and their associated geographical origin, we construct region-specific blockchain metrics which we show improve market modelling and prediction as compared to the global metrics. We further show with the indices regional differences in users willingness to pay transaction fees."
   title: ""

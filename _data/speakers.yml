@@ -43,7 +43,7 @@
   company: "IMT Lucca"
   title: "Organizer"
   thumbnailUrl: "PietroS.jpeg"
-  rockstar: true
+  rockstar: false
   role: "organizer"
 
 - id: 6
